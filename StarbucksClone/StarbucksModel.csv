@@ -1,0 +1,43 @@
+1,Drink,ColdBrew,민트 콜드 브루,Mint Cold Brew,상쾌한 민트향 시럽과 잘게 갈린 얼음이 어우러져 시원함이 강렬하게 느껴지는 리저브만의 콜드 브루 음료,6500,1,TRUE,TRUE,FALSE
+2,Drink,ColdBrew,오트 크림 스카치 콜드 브루,Oat Cream Butter Scotch Cold Brew,고소한 오트 바닐라 크림이 카라멜 & 스카치 풍미를 더한 콜드 브루에 올라가 부드럽고 은은하게 즐길 수 있는 음료,4500,2,TRUE,TRUE,FALSE
+3,Drink,ColdBrew,나이트로 바닐라 크림,Nitro Vanila Cream,부드러운 목넘김의 나이트로 커피와 바닐라 크림의 매력을 한번에 느껴보세요!,5500,3,FALSE,FALSE,FALSE
+4,Drink,ColdBrew,나이트로 콜드 브루,Nitro Cold Brew,나이트로 커피 정통의 캐스케이딩과 부드러운 콜드 크레마! 부드러운 목 넘김과 완벽한 밸런스에 커피 본연의 단맛을 경험할 수 있습니다.,6700,4,FALSE,FALSE,FALSE
+5,Drink,ColdBrew,돌체 콜드 브루,Dolce Cold Brew,무더운 여름철. 동남아 휴가지에서 즐기는 커피를 떠오르게 하는 스타벅스 음료의 베스트 x 베스트 조합인 돌체 콜드 브루를 만나보세요!,5600,5,FALSE,FALSE,FALSE
+6,Drink,ColdBrew,바닐라 크림 콜드 브루,Vanila Cream Cold Brew,콜드 브루에 더해진 바닐라 크림으로 깔끔하면서 달콤한 콜드 브루를 새롭게 즐길 수 있는 음료입니다.,6200,6,FALSE,FALSE,FALSE
+7,Drink,ColdBrew,벨벳 다크 모카 나이트로,Velvet Dark Mocha Nitro,다크 초콜릿 모카의 진한 바디감과 함께 헤이즐넛 향과 달콤한 카라멜 크림 폼으로 벨벳같은 부드러움까지 살린 리저브 나이트로 커피,6400,7,FALSE,FALSE,FALSE
+8,Drink,ColdBrew,제주 비자림 콜드 브루,Jeju Forest Cold Brew,제주 천년의 숲 비자림을 연상시키는 음료로 제주 유기농 말차와 콜드 브루가 조화로운 제주 특화 콜드 브루 음료,7000,8,FALSE,FALSE,FALSE
+9,Drink,ColdBrew,콜드 브루,Cold Brew,스타벅스 바리스타의 정성으로 탄생한 콜드 브루! 콜드 브루 전용 원두를 차가운 물로 추출하여 한정된 양만 제공됩니다. 깊은 풍미의 새로운 커피 경험을 즐겨보세요.,5600,9,FALSE,FALSE,FALSE
+10,Drink,Espresso,카페 아메리카노,Cafe Americano,진한 에스프레소와 물을 섞어 스타벅스의 깔끔하고 강렬한 에스프레소를 가장 부드럽게 잘 느낄 수 있는 커피,4500,10,FALSE,FALSE,TRUE
+11,Drink,Espresso,토피 넛 라떼,Toffee Nut Latte,스타벅스의 겨울 시그니처 음료 버터 향이 은은하게 느껴지는 토피와 고소한 견과류의 풍미. 진한 에스프레소가 어우러진 크리스마스 시즌 음료,6100,11,TRUE,TRUE,FALSE
+12,Drink,Espresso,바닐라 플랫 화이트,Vanila Flat White,바닐라 플랫 화이트는 진하고 고소한 리스트레토 샷과 바닐라 시럽 그리고 스팀 밀크로 즐기는 진한 커피 라떼 입니다.,5900,12,FALSE,FALSE,FALSE
+13,Drink,Espresso,스타벅스 돌체 라떼,Starbucks Dolce Latte,스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼,5900,13,FALSE,FALSE,FALSE
+14,Drink,Espresso,카페 모카,Caffe Mocha,진한 초콜릿 모카 시럽과 풍부한 에스프레소를 스팀 밀크와 섞어 휘핑크림으로 마무리한 음료로 진한 에스프레소와 초콜릿 맛이 어우러진 커피,5500,14,FALSE,FALSE,FALSE
+15,Drink,Espresso,카페 라떼,Caffe Latte,풍부하고 진한 에스프레소가 신선한 스팀 밀크를 만나 부드러워진 커피 위에 우유 거품을 살짝 얹은 대표적인 커피 라떼,5000,15,FALSE,FALSE,FALSE
+16,Drink,Espresso,카푸치노,Cappuccino,풍부하고 진한 에스프레소에 따뜻한 우유와 벨벳 같은 우유 거품이 1:1 비율로 어우러져 마무리된 커피 음료,5000,16,FALSE,FALSE,FALSE
+17,Drink,Espresso,카라멜 마키아또,Caramel Macchiato,향긋한 바닐라 시럽과 따뜻한 스팀 밀크 위에 풍성한 우유 거품을 얹고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료,5900,17,FALSE,FALSE,FALSE
+18,Drink,Espresso,화이트 초콜릿 모카,White Chocolate Mocha,달콤하고 부드러운 화이트 초콜릿 시럽과 에스프레소를 신선한 우유 그리고 얼음과 섞어 휘핑크림으로 마무리한 음료로 달콤함과 강렬한 에스프레소가 부드럽게 어우러진 커피,5900,18,FALSE,FALSE,FALSE
+19,Drink,Espresso,에스프레소,Espresso,스타벅스 에스프레소는 향기로운 크레마 층과 바디 층. 하트 층으로 이루어져 있으며. 입안 가득히 커피와 달콤한 카라멜 향이 느껴지는 커피 음료,5100,19,FALSE,FALSE,FALSE
+20,Drink,Frappuccino,더블 에스프레소 칩 프라푸치노,Double Espresso Chip Frappuccino,리스트레토 에스프레소 2샷과 에스프레소 칩. 하프앤하프가 진하게 어우러진 커피의 기본에 충실한 프라푸치노,6300,20,FALSE,FALSE,FALSE
+21,Drink,Frappuccino,자바 칩 프라푸치노,Java Chip Frappuccino,커피. 모카 소스. 진한 초콜릿 칩이 입안 가득 느껴지는 스타벅스에서만 맛볼 수 있는 프라푸치노,6300,21,FALSE,FALSE,TRUE
+22,Drink,Frappuccino,초콜릿 크림 칩 프라푸치노,Chocolate Cream Chip Frappuccino,모카 소스와 진한 초콜릿 칩. 초콜릿 드리즐이 올라간 달콤한 크림 프라푸치노,6000,22,FALSE,FALSE,FALSE
+23,Drink,Frappuccino,화이트 초콜릿 모카 프라푸치노,White Chocolate Mocha Frappuccino,화이트 초콜릿. 커피와 우유가 조화로운 프라푸치노,6000,23,FALSE,FALSE,TRUE
+24,Drink,Frappuccino,모카 프라푸치노,Mocha Frappuccino,초콜릿과 커피가 어우러진 프라푸치노,5900,24,FALSE,FALSE,FALSE
+25,Drink,Frappuccino,카라멜 프라푸치노,Caramel Frappuccino,카라멜과 커피가 어우러진 프라푸치노,5900,25,FALSE,FALSE,FALSE
+26,Drink,Frappuccino,바닐라 크림 프라푸치노,Vanila Cream Frappuccino,신선한 우유와 바닐라 시럽이 어우러진 크림 프라푸치노,5100,26,FALSE,FALSE,FALSE
+27,Drink,Blended,딸기 딜라이트 요거트 블렌디드,Strawberry Delight Yogurt Blended,유산균이 살아있는 리얼 요거트와 풍성한 딸기 과육이 더욱 상큼하게 어우러진 과일 요거트 블렌디드,6300,27,FALSE,FALSE,TRUE
+28,Drink,Blended,망고 바나나 블렌디드,Mango Banana Blended,(Grande Only) 인기 음료인 망고 패션후르츠 블렌디드에 신선한 바나나 1개가 통째로 들어간 달콤한 프라푸치노,6300,28,FALSE,FALSE,FALSE
+29,Drink,Blended,망고 패션 프루트 블렌디드,Mango Passion Fruit Blended,망고 패션 프루트 주스와 블랙 티가 깔끔하게 어우러진 과일 블렌디드,5400,29,FALSE,FALSE,FALSE
+30,Drink,Blended,제주 감귤 당근 스노잉 블렌디드,Jeju Tangerine Carrot Snowing Blended,눈 속에 쌓인 당근처럼 특색 있는 비주얼과 함께 제주산 감귤. 당근 등 다양한 과일을 이용하여 누구나 맛있게 즐길 수 있는 요거트 음료,7000,30,FALSE,FALSE,FALSE
+31,Drink,Refresher,딸기 아사이 레모네이트 스타벅스 리프레셔,Strawberry Acai with Lemonade,딸기. 아사이베리 주스와 레모네이드가 달콤 상큼하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료,5900,31,FALSE,FALSE,FALSE
+32,Drink,Refresher,핑크 드링크 위드 딸기 아사이 스타벅스 리프레셔,Pink Drink with Strawberry Acai,딸기. 아사이베리 주스와 코코넛 밀크가 달콤하고 부드럽게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료,5900,32,FALSE,FALSE,FALSE
+33,Drink,Fizzio,유자 패션 피지오,Yuja Passion Fizzio,"상콤달콤 고흥 유자와 스타벅스 시그니처 패션 탱고 티에 한 잔 한 잔 탄산을 넣어 제조하는 피지오 음료. 시트러스한 청량감을 가득 즐기세요!",5900,33,FALSE,FALSE,FALSE
+34,Drink,Fizzio,쿨 라임 피지오,Cool Lime Fizzio,그린 빈 추출액이 들어간 라임 베이스에 건조된 라임 슬라이스를 넣고 스파클링한 시원하고 청량감 있는 음료입니다. (카페인이 함유된 탄산음료입니다),5900,34,FALSE,FALSE,FALSE
+35,Drink,Fizzio,블랙 티 레모네이드 피지오,Black Tea Lemonade Fizzio,진하게 우린 블랙 티와 상큼한 레모네이드를 더한 청량감 있는 음료입니다. 목 넘김이 좋은 가벼운 탄산이 첨가되어 깔끔하게 즐길 수 있습니다.,5400,35,FALSE,FALSE,FALSE
+36,Drink,Fizzio,패션 탱고 티 레모네이드 피지오,Passion Tango Tea Fizzio,꽃 향기와 달콤하고 상큼한 시트러스 향을 탄산과 함께 더욱 풍부하게 느끼고 싶으시다면 패션 티 레모네이드 피지오를 선택해 보세요! 언제 찾아도 기분이 좋아지는 훌륭한 음료입니다.,5400,36,FALSE,FALSE,FALSE
+37,Drink,Teavana,오로라 캐모마일 릴렉서,Aurora Chamomile Tea Relaxer,크리스마스 밤을 아름답게 물들이는 듯한 오로라가 살포시 내려앉아. 홀리데이 시즌을 더욱 설레게 만들어 주는 음료 달콤한 리치과육이 들어간 베이스에 은은한 캐모마일과 유스베리티가 조화롭게 어우러진 릴렉싱 티 음료,6100,37,TRUE,TRUE,FALSE
+38,Drink,Teavana,제주 금귤 민트 티,Jeju Golden Tangerine Mint Tea,제주의 상콤 달콤함을 담은 금귤. 한라봉. 감귤 등을 통째로 넣어 풍미를 살리고 민트의 깔끔함을 더한 티 음료,6100,38,TRUE,TRUE,FALSE
+39,Drink,Teavana,유자 민트 티,Yuja Mint Tea,달콤한 국내산 고흥 유자와 알싸하고 은은한 진저와 상쾌한 민트 티가 조화로운 유자 민트 티,5900,39,FALSE,FALSE,FALSE
+40,Drink,Teavana,돌체 블랙 밀크 티,Dolce Black Milk Tea,진한 홍차에 부드러운 우유와 연유 시럽으로 향긋하고 달콤하게 맛을 낸 스타벅스만의 돌체 블랙 밀크 티,5900,40,FALSE,FALSE,FALSE
+41,Drink,Teavana,자몽 허니 블랙 티,Grapefruit Honey Black Tea,새콤한 자몽과 달콤한 꿀이 깊고 그윽한 풍미의 스타벅스 티바나 블랙 티의 조화,5700,41,FALSE,FALSE,TRUE
+42,Drink,Teavana,차이 티 라떼,Chai Tea Latte,스파이시한 향과 독특한 계피향. 달콤한 차이로 만든 부드러운 티 라떼,5500,42,FALSE,FALSE,TRUE
+43,Drink,Teavana,말차 티 슈패너,Malcha Tea-Einspanner,아인슈페너를 말차로 즐기는 음료 진하고 쌉싸름한 말차와 글레이즈드의 달콤함이 만나 부드럽게 즐기기 좋은 티 음료,6500,43,FALSE,FALSE,
