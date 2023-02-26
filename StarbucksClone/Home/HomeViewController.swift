@@ -56,7 +56,6 @@ class HomeViewController: UIViewController {
             
             // 기준 width의 0.4
             layout.itemSize = CGSize(width: width * 0.4 - layout.minimumInteritemSpacing, height: width * 0.4 + 40)
-            print("이거 실행되냐")
         }
         userRecommandCollectionView.showsHorizontalScrollIndicator = false
         userRecommandCollectionView.delegate = self
@@ -97,16 +96,19 @@ extension HomeViewController: UICollectionViewDelegate {
 
 extension HomeViewController: UIScrollViewDelegate {
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        
-        let y: CGFloat = scrollView.contentOffset.y
-        let i = maxTopHeight - minTopHeight
-        let alpha = y / i
-
-        if y > maxTopHeight - minTopHeight {
-            headerTopConstraint.constant = -i
+        if ((scrollView as? UICollectionView) != nil) {
+            return
         } else {
-            headerTopConstraint.constant = -y
-            headerView.alpha = 1 - alpha
+            let y: CGFloat = scrollView.contentOffset.y
+            let i = maxTopHeight - minTopHeight
+            let alpha = y / i
+
+            if y > maxTopHeight - minTopHeight {
+                headerTopConstraint.constant = -i
+            } else {
+                headerTopConstraint.constant = -y
+                headerView.alpha = 1 - alpha
+            }
         }
     }
 }

@@ -22,17 +22,8 @@
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="250"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="header" translatesAutoresizingMaskIntoConstraints="NO" id="21l-9h-Cdk">
-                                        <rect key="frame" x="0.0" y="0.0" width="393" height="228.33333333333334"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="393" height="250"/>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="어서오세요 스타벅스입니다" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YQ2-T8-kaS">
-                                        <rect key="frame" x="0.0" y="228.33333333333334" width="393" height="21.666666666666657"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="21.666666666666657" id="uIc-pj-eFu"/>
-                                        </constraints>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
-                                        <color key="textColor" red="0.2941176593" green="0.6549019814" blue="0.41176474089999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                 </subviews>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="250" id="p4h-ZS-Agg"/>
